@@ -20,4 +20,8 @@ This should download a folder to your JupyterHub with the lab (it should be call
 Double click the new folder in the file explorer. You should see the lab contents.
 
 
+## Why we chose our license and code of conduct
+We chose this particular license becuase it aligned with what our project had been doing. It also explained the different parts of a license and was through and detailed. 
+
+The code of conduct we chose explicitly states the different parts of the code and were in phrases that non-coders could understand 
 
