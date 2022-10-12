@@ -14,10 +14,10 @@ if you type 1, then it prints out "It is summer".
 
 ## How to install: 
 
-Log into SCI JupyterHub and start a terminal
-Type in "git clone https://github.com/jhb59/Version-Control-Group-39.git" and hit the enter key
-This should download a folder to your JupyterHub with the lab (it should be called Version-Control-Group-39)
-Double click the new folder in the file explorer. You should see the lab contents.
+- Log into SCI JupyterHub and start a terminal
+- Type in "git clone https://github.com/jhb59/Version-Control-Group-39.git" and hit the enter key
+- This should download a folder to your JupyterHub with the lab (it should be called Version-Control-Group-39)
+- Double click the new folder in the file explorer. You should see the lab contents.
 
 
 ## Why we chose our license and code of conduct
